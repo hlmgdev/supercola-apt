@@ -1,0 +1,16 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sat, 07 Nov 2026 12:49:59 +0000
+Description: Atualizações do Super Cola
+Label: Super Cola
+Origin: Super Cola
+Suite: stable
+SHA256:
+ 4cc7622a47c6b97ae3c862b91f52f2f90c28be51ecfd2a371ab4f8b7e4ce7891              980 main/binary-amd64/Packages
+ 357815ccf1baf1ef5da6df32edbbc0d37867592b251bf0f085deb0e260745a0c              644 main/binary-amd64/Packages.gz
+ 309c7fb2b72660f9e02e8f4b983e7944ef2fbede7614cd844453f5360c04c2fb              724 main/binary-amd64/Packages.xz
+SHA512:
+ c63dc0f73e9eb2db5254464f08b4e65c992073c7a9d2bb5d0ecb25fdaf30ea9ff622ba5252f0ee0cc30d054bc2b1892acffcafcc7168d9e7574712301517f75b              980 main/binary-amd64/Packages
+ c6362b683bfdd44b633500b37f5816869b8a50d964e78d8a7496e5f022bfa14d41419f2e1f92558af7dc91ca2602359123123bd19c06f82aa2501cf497f00003              644 main/binary-amd64/Packages.gz
+ 72d71ca27899cd1e04f3f0f95f1b24fa120e9d3bc3734df46c3c939dbf2c382704c962cb56c872ba85d6c5a69bb447f19171cedac65fc76181d96619eef11dad              724 main/binary-amd64/Packages.xz

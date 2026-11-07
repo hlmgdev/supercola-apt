@@ -1,0 +1,18 @@
+Package: supercola
+Architecture: amd64
+Version: 1.2.0
+Priority: optional
+Section: utils
+Maintainer: Helton <hlmgdev@outlook.com>
+Installed-Size: 7276
+Depends: libc6 (>= 2.39), libcairo2 (>= 1.10.0), libgcc-s1 (>= 4.2), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0t64 (>= 2.79.0), libgraphene-1.0-0 (>= 1.5.4), libgtk-4-1 (>= 4.12.0), libwayland-client0 (>= 1.11.0), libxkbcommon0 (>= 0.5.0), librsvg2-common, fonts-noto-color-emoji
+Recommends: fonts-noto-cjk
+Filename: pool/main/s/supercola/supercola_1.2.0_amd64.deb
+Size: 2593834
+SHA256: f0e81dc681be700139a10ecf12812f5196102d9f8d3861859294c7c3c2c6635a
+SHA512: 54c2b7424dbd73f3ffa38b963edc20697b868dff84faccbd9cb3d3d9a3054bba046fdf145aa2bbbc011db06f60f0dc457c825e22f0a959ef9363e0161d74e259
+Description: Clipboard history panel in the style of Win+V
+ Opens with Super+V on COSMIC, GNOME and KDE Plasma: clipboard history with pinned items,
+ emoji, kaomoji, symbols and GIF tabs, and automatic paste into the app
+ you came from.
+
